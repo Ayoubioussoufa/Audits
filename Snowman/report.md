@@ -61,8 +61,8 @@ This repository documents my **first security audit** of the Snowman Protocol â€
 
 | Category | No. of Issues |
 | --- | --- |
-| High | 2 |
-| Low | 10 |
+| High | 3 |
+| Low | 11 |
 
 # High Issues
 
