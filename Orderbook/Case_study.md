@@ -1,4 +1,4 @@
-# 🛡️ Smart Contract Security Report – [OrderBook](https://github.com/CodeHawks-Contests/2025-07-orderbook)
+# 🛡️ Smart Contract Security Report study – [OrderBook](https://github.com/CodeHawks-Contests/2025-07-orderbook)
 
 In this audit, I wasn't able to detect any vulnerabilities, so this file will be me discussion what things I should pay more attention to in the future audits.
 
