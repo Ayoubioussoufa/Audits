@@ -1,0 +1,1 @@
+I'll be auditing 1 contract per day (currently there are 45 first flights in CodeHawks) 
